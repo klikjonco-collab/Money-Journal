@@ -1,0 +1,9 @@
+{
+  "name": "money-journal",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Money Journal: 50/30/20 personal budgeting web app",
+  "scripts": {
+    "start": "node scripts/serve.js"
+  }
+}
